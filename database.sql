@@ -14,8 +14,8 @@
 
 
 -- Dumping database structure for vorpv2
-CREATE DATABASE IF NOT EXISTS `vorpv2` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
-USE `vorpv2`;
+CREATE DATABASE IF NOT EXISTS `zap1031744-1` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+USE `zap1031744-1`;
 
 -- Dumping structure for table vorpv2.banks
 CREATE TABLE IF NOT EXISTS `banks` (
